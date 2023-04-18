@@ -1,7 +1,19 @@
-# Congestion Tax Calculator
+# Volvo Cars Congestion Tax Calculator
 
-Welcome the Volvo Cars Congestion Tax Calculator assignment.
+This repository contains an [assignment](ASSIGNMENT.md) with a logic for congestion tax calculator in Gothenburg area.
 
-This repository contains a developer [assignment](ASSIGNMENT.md) used as a basis for candidate intervew and evaluation.
+## Demo
 
-Clone this repository to get started. Due to a number of reasons, not least privacy, you will be asked to zip your solution and mail it in, instead of submitting a pull-request.
+...
+
+## Solution
+
+...
+
+## Run project locally
+
+Project build using a Node.js framework [nestjs](https://nestjs.com/)
+
+## Requirements
+
+...
